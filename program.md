@@ -21,12 +21,3 @@ by 5pm on Friday. Those staying for an optional hackday will finish
 around 3pm on Saturday.
 
 Further details will appear here.
-
-## Topics and projects
-
-The overarching theme of this GAP Days will be GAP's infrastructure for
-computing with permutation groups, such as orbit and stabiliser algorithms, base
-and strong generating sets, partition backtrack for stabiliser, normaliser, and
-canonical images, chief series, Sylow subgroups, Schur multipliers and
-cohomology, and recognition methods for permutation groups.  If you have any
-queries or suggestions, then please do not hesitate to contact the organisers.
