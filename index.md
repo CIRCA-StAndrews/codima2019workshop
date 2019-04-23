@@ -39,7 +39,8 @@ The workshop will take place at the {{ site.location }}. Information
 about the exact location can be found on
 [the location page]({{ site.baseurl }}/location).
 
-Registration will be opened shortly.
+Registration is via Eventbrite.
+[Click here to start registration](https://www.eventbrite.co.uk/e/codima-workshop-2019-registration-60762060960).
 
 ## <a name="contact"></a> Contact
 
