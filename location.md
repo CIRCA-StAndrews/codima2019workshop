@@ -37,3 +37,5 @@ You may find some suggestions following the links below:
 
 - [Maps and travel information](https://www.manchester.ac.uk/discover/maps/) on the University of Manchester website
 - [Some informal information for visitors to Manchester](https://personalpages.manchester.ac.uk/staff/Mark.Kambites/visitors.php) collected by Mark Kambites
+
+One of the suggestions for a hotel is <a href="https://www.accorhotels.com/gb/hotel-3143-ibis-manchester-centre-princess-street-new-ibis-rooms/index.shtml">ibis Manchester Centre Princess Street Hotel</a>.
