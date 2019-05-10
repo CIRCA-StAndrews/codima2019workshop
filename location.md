@@ -24,7 +24,9 @@ Alan Turing Building<br />
 Oxford Road, Manchester<br />
 M13 9PL, UK
 
-<a href="https://www.openstreetmap.org/#map=19/53.46810/-2.23154">See on the map</a>
+See on the map:
+- [OpenStreetMap](https://www.openstreetmap.org/#map=19/53.46810/-2.23154)
+- [Google Maps](https://goo.gl/maps/E9CJMxst5KYzdkj67)
 
 <h2>Rooms</h2>
 
