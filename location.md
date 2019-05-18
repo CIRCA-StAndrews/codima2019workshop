@@ -3,7 +3,7 @@ layout: page
 title: Location
 ---
 
-The workshop will take place in
+The workshop will take place in 
 [Manchester](https://en.wikipedia.org/wiki/Manchester)
 in the
 [School of Mathematics](http://www.maths.manchester.ac.uk/)
@@ -30,7 +30,7 @@ See on the map:
 
 <h2>Rooms</h2>
 
-TBC
+[Room G108](https://www.estates.manchester.ac.uk/services/centralteachingspaces/ourservices/roomcatalogue/?building=7&room=19)
 
 <h2>Maps and travel</h2>
 
