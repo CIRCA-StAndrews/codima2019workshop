@@ -26,7 +26,7 @@ See on the map:
 
 <h2>Rooms</h2>
 
-[Room G108](https://www.estates.manchester.ac.uk/services/centralteachingspaces/ourservices/roomcatalogue/?building=7&room=19)
+- [Room G108](https://www.estates.manchester.ac.uk/services/centralteachingspaces/ourservices/roomcatalogue/?building=7&room=19)
 
 <h2>Maps and travel</h2>
 
