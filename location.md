@@ -11,10 +11,6 @@ of the
 [University of Manchester](https://www.manchester.ac.uk/), 
 which is located in the
 [Alan Turing Building](http://www.maths.manchester.ac.uk/about-us/findus/).
-Please see below, and the
-[program page]({{ site.url }}{{ site.baseurl }}/program),
-for the specific details about which rooms are available
-for our use on which days.
 
 <h2>Address</h2>
 
