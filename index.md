@@ -29,8 +29,6 @@ Agenda:
 - Modern needs of our user and developer community
 - Optional hackday for collaborative work, prototyping and learning new tools
 
-More detailed agenda to follow.
-
 Further information can be found on [the program page]({{ site.baseurl }}/program).
 
 ## Registering and visiting
