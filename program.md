@@ -32,7 +32,7 @@ In the 1980s Robert Axelrod carried out computer experiments that continue to be
 as an explanation for the emergence of cooperative behaviour. I will discuss an open source
 piece of software that not only reproduced this but importantly (continues) to extend it. 
 
-**Alexander Konovalov** (St Andrews): *CoDiMa CCP: 5 years on* (1 hour) [**slides**](talks/CoDiMa_overview_Konovalov.pdf)
+**Alexander Konovalov** (St Andrews): *CoDiMa CCP: 5 years on* (1 hour) [**[slides]**](talks/CoDiMa_overview_Konovalov.pdf)
 
 An overview of community building and software maintenance activities being undertaken under CoDiMa CCP.
 
@@ -42,7 +42,7 @@ An overview of [meataxe64](https://meataxe64.wordpress.com/) and a
 [GAP package](https://github.com/gap-packages/meataxe64) which provides
 low-level GAP bindings to use it from GAP.
 
-**Patrick Maier** (Sheffield Hallam): *Scaling parallel combinatorial search* (30 minutes)
+**Patrick Maier** (Sheffield Hallam): *Scaling parallel combinatorial search* (30 minutes) [**[slides]**](talks/ScalingParallelCombinatorialSearch_Maier.pdf)
 
 I will talk about [YewPar](https://github.com/BlairArchibald/YewPar) a new C++ framework 
 for parallel combinatorial search. The framework is suitable for scaling backtracking 
