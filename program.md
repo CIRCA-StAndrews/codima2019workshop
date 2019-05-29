@@ -7,7 +7,7 @@ title: Program
 * __Finish:__ Friday 24<sup>th</sup> May 2019 at 17:00
 * __Optional:__ Hackday on Saturday 25<sup>th</sup> May 2019 9:00-15:00
 
-<h2>Abstracts</h2>
+<h2>Abstracts and slides</h2>
 
 **Corneliu Hoffman** (Birmingham): *Spatchcoq-taming poultry, an approach to teaching proofs with computers* (30 minutes)
 
@@ -32,7 +32,7 @@ In the 1980s Robert Axelrod carried out computer experiments that continue to be
 as an explanation for the emergence of cooperative behaviour. I will discuss an open source
 piece of software that not only reproduced this but importantly (continues) to extend it. 
 
-**Alexander Konovalov** (St Andrews): *CoDiMa CCP: 5 years on* (1 hour)
+**Alexander Konovalov** (St Andrews): *CoDiMa CCP: 5 years on* (1 hour) [**slides**](talks/CoDiMa_overview_Konovalov.pdf)
 
 An overview of community building and software maintenance activities being undertaken under CoDiMa CCP.
 
