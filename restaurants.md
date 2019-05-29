@@ -3,9 +3,7 @@ layout: default
 permalink: /restaurants
 ---
 
-## Restaurants in Halle
+## Restaurants in Manchester
 
-* Viet Village
-* Rote Soße
-* Bewaffel Dich
-* House of India
+* [Zouk](https://zoukteabar.co.uk/)
+* [Tai Pan](http://www.taipanmanchester.co.uk/)
