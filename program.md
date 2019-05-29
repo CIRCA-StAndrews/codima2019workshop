@@ -12,7 +12,7 @@ title: Program
 **Corneliu Hoffman** (Birmingham): *Spatchcoq-taming poultry, an approach to teaching proofs with computers* (30 minutes)
 
 I will present a software approach to teaching students how to write proofs. This is based on a bespoke customisable 
-interface to Coq. For details ask me or see http://spatchcoq.co.uk/spatchcoq. While it is not exactly 
+interface to Coq. For details ask me or see [this repository](http://spatchcoq.co.uk/spatchcoq). While it is not exactly 
 discrete mathematics, most teaching examples are.
 
 **Sergey Kitaev** (Strathclyde): *Computational challenges in the theory of word-representable graphs* (1 hour)
@@ -53,7 +53,7 @@ search/optimisation to large distributed compute clusters.
 We discuss our exerience with implementing a classical decomposition method for representations of 
 finite groups over **C**. We (re)discovered few interesting tricks to speed up seemingly very hard parts. 
 Joint work with my student Kaashif Hymabaccus, who also implemented all this as 
-GAP package https://gitlab.com/kaashif/decomp.
+GAP package [decomp](https://gitlab.com/kaashif/decomp).
 
 **Sergey Shpectorov** (Birmingham): *Computing axial algebras* (30 minutes)
 
