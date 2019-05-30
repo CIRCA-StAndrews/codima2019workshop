@@ -68,7 +68,7 @@ due to better linear algebra/group modules implementation in MAGMA. In the talk
 I'll discuss the structure of the algorithm and the necessary operations, as well 
 as a few ideas how the efficiency of the implementation can be improved.
 
-**Leonard Soicher** (QMUK): *Classifying the nonsynchronizing primitive permutation groups* (30 minutes)
+**Leonard Soicher** (QMUL): *Classifying the nonsynchronizing primitive permutation groups* (30 minutes) [**[slides]**](talks/Nonsynchgroups_Soicher.pdf)
 
 The groups of the title are of interest to researchers in permutation groups, semigroups, and automata 
 theory, and the current classification (up to degree 314) has required the development and use of new 
